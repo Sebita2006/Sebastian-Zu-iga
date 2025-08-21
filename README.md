@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Sebastian Zuñiga tengo 18 años y estudio la especialidad de porgramacion
 
 Soy desarrollador(a) de software con pasión por la tecnología, la resolución de problemas y la creación de soluciones útiles. Me especializo en el desarrollo web y de aplicaciones, y siempre estoy aprendiendo nuevas herramientas para mejorar mis habilidades y aportar valor a los proyectos en los que participo.
 
